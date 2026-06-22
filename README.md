@@ -16,3 +16,16 @@ Flatten Images into 4096 Features
 Normalize Pixel Values
 
 # NMF successfully extracted common visual patterns from car images. Unlike the face dataset used earlier, the car dataset contained multiple viewpoints, backgrounds, and vehicle styles, making it more difficult for NMF to discover clearly separated parts such as wheels or doors. The extracted components appeared as common car-related structures and lighting patterns rather than distinct object parts.
+#✓ Unsupervised Learning
+
+✓ Non-Negative Matrix Factorization (NMF)
+
+✓ Image Processing
+
+✓ Feature Extraction
+
+✓ Dimensionality Reduction
+
+✓ Data Visualization
+
+✓ Machine Learning Experimentation
